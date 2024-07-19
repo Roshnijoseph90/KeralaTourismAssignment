@@ -1,0 +1,9 @@
+.container{
+    border-width: thin;
+    border-style: solid;
+  border-color: black;
+  width: 500px;
+  height: 150px;
+  border-radius: 10px;
+
+}
